@@ -58,7 +58,7 @@ Ensure you have **Node.js** and **npm** installed.
 
 ## Deployment
 - The application is deployed on **Vercel**.
-- Click [here](#) to view the deployed version.
+- Click [here](https://movie-search-one-jet.vercel.app/) to view the deployed version.
 
 ## Evaluator Notes
 - The app is optimized for mobile devices.
